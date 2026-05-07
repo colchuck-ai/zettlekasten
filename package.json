@@ -1,0 +1,5 @@
+{
+  "name": "zk-skill",
+  "private": true,
+  "description": "Zettelkasten agent skill and template (atomic linked notes / memory extension)"
+}
