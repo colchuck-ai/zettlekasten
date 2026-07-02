@@ -6,13 +6,14 @@
 
 | Path | Purpose |
 |------|---------|
-| `zk/SKILL.md` | When to apply ZK, conventions, provenance, bootstrap steps, pointer to full method. |
-| `zk/assets/zk-template/` | Slip-box layout: README, AGENTS, `zettelkasten.md`, `template-zettel.md`, `inbox/`. |
+| `zk/SKILL.md` | Single source of truth: when to apply ZK, conventions, procedures, bootstrap. |
+| `zk/references/zettelkasten.md` | Full method (principles, linking, structure, writing). Skill-owned; read on demand. |
+| `zk/assets/zk-template/` | Minimal slip-box layout: `template-zettel.md` and `inbox/`. |
 
 ## Quick start
 
 1. Add `zk` to your agent skills path (e.g. symlink or copy `zk/` into `.cursor/skills/zk/`).
-2. **Bootstrap:** copy everything under `zk/assets/zk-template/` into your chosen slip-box folder; optionally add the root `AGENTS.md` snippet from [zk/SKILL.md](zk/SKILL.md) so the repo points agents at that path.
+2. **Bootstrap:** copy the contents of `zk/assets/zk-template/` into your chosen slip-box folder. Nothing else needs to be copied—the skill applies wherever the layout is detected.
 
 License: GPL-3.0 (see [zk/SKILL.md](zk/SKILL.md)).
 
