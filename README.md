@@ -1,6 +1,6 @@
-# zk-skill
+# Zettelkasten
 
-**Zettelkasten** (atomic, linked markdown notes) as a standalone **[Agent Skill](https://agentskills.io/home)** and **template**—an on-disk **knowledge graph / memory extension** for agents and humans.
+**Zettelkasten** (atomic, linked markdown notes) as a standalone **[Agent Skill](https://agentskills.io/home)** (the **ZK** skill) and **template**—an on-disk **knowledge graph / memory extension** for agents and humans.
 
 ## Contents
 
